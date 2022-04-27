@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MunSeoHee&show_icons=true&count_private=true)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=MunSeoHee&layout=compact&count_private=true&langs_count=10)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MunSeoHee)](https://github.com/MunSeoHee)
